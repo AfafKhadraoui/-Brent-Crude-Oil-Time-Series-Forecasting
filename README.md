@@ -222,18 +222,10 @@ To execute the R Jupyter notebook `Individual_project_Afaf_Khadraoui_G10.ipynb`,
 install.packages(c("tseries", "forecast", "MASS", "ggplot2", "readr", "dplyr", "TSA"))
 ```
 
-### 2. LaTeX Report Compilation
-The LaTeX file `report.tex` is configured to compile out-of-the-box:
-* **Overleaf:** Upload `report.tex`, `ensia_logo.png`, and the `images/` directory to your project root. Set the compiler to **PDFLaTeX** and compile.
-* **Local Compiler:** Run:
-  ```bash
-  pdflatex report.tex
-  pdflatex report.tex
-  ```
 
 ---
 
 ## Academic Context
-* **Author:** Khadraoui Afaf (Student, Group 10)
+* **Author:** Khadraoui Afaf 
 * **Institution:** National School of Artificial Intelligence (ENSIA), Sidi Abdellah, Algiers, Algeria
 * **Course:** Time Series Analysis and Classification (TSAC 2025/2026)
