@@ -1,4 +1,6 @@
 # Time Series Analysis and Forecasting of Brent Crude Oil Spot Prices
+[Open in Google Colab](https://colab.research.google.com/drive/1E0dH7RDHUX-MpRdxKq5bD_TyNZ6R47Gu?usp=sharing)
+
 
 An academic research project implementing the Box-Jenkins methodology to model and forecast monthly Brent Crude Oil spot prices (June 1987 to February 2026).
 
